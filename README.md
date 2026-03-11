@@ -322,17 +322,3 @@ By creating the bmi_smoker_interaction feature, we have captured the non-linear 
 
 In medical underwriting, the risk of a high BMI is compounded significantly if the policyholder also smokes. A standard linear model treats these as separate additions; our model identifies that their combined effect is greater than the sum of its parts.
 
-
----
-## 📽 Google Colaboratory notebook
-You can view the Python code *.ipynb format:
-
-[📄 Download code (LV_us-medical-insurance-costs.ipynb)](./code.ipynb)
----
-
----
-## 📽 Project Presentation
-You can view the report with visualizations and business recommendations in PDF format:
-
-[📄 Download presentation (Insurance_Analysis_Project.pdf)](./presentation.pdf)
----
