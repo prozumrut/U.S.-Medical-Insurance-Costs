@@ -167,7 +167,7 @@ Prediction: Using Linear Regression to forecast charges for new applicants.
 # Step 2: EDA (Exploratory Data Analysis)
 ## Outlier Detection
 ## Data Distribution
-#### What these distributions tell us about the dataset:
+### What these distributions tell us about the dataset:
 
 **1. BMI**
 
