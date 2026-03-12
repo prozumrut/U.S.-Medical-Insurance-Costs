@@ -294,7 +294,7 @@ To find the the potential savings if 10% of this group joins a smoking cessation
 
 As a result, we see that Potential Savings if 10% (14) quit smoking: \$474,371.83 (this is actually for 14.5, not for 14 people)
 
-If we have 145 people in the "Smoker / Obese" group and 10% (10 people) successfully join a program and quit smoking, they transition toward the "Non-Smoker / Obese" cost profile.
+If we have 145 people in the "Smoker / Obese" group and 10% (14 people) successfully join a program and quit smoking, they transition toward the "Non-Smoker / Obese" cost profile.
 
 Savings per person: \$41,558 - \$8,843 = \$32,715
 Total Savings for 14 people: \$458,010 annually.
