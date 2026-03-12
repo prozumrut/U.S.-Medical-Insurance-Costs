@@ -8,7 +8,7 @@ The data shows a massive disparity in costs based on smoking habits:
 
 * **Correlation:** Smoking has a high positive correlation of **0.79**, indicating it is the strongest predictor of high charges in this dataset.
 * **Cost Gap:** On average, smokers are charged **\$32,050**, while non-smokers are charged only **\$8,434**.
-* **Insight:** A smoker’s medical charges are nearly **4x higher** than those of a non-smoker. This suggests that smoking cessation programs could be the most effective way to reduce overall insurance payouts.
+* **Insight:** A smoker’s charges are nearly **4x higher** than those of a non-smoker. This suggests that smoking cessation programs could be the most effective way to reduce overall insurance payouts.
 
 
 ### 2. The Impact of Aging
@@ -60,7 +60,7 @@ The organization lacks a granular understanding of why certain policyholders inc
 
 **Size of the Problem**
 
-Approximately 20% of the policyholder base (the high-cost segment) accounts for nearly 52% of total medical charges.
+Approximately 20% of the policyholder base (the high-cost segment) accounts for nearly 52% of total charges.
 
 Based on the dataset, the average charge for a smoker (approx \$32,050) is nearly 4 times that of a non-smoker (approx \$8,434). Inaccurate pricing for just 1,000 such individuals represents a potential miscalculation of millions of dollars.
 
@@ -102,13 +102,13 @@ External:
 
 To segment the customer base into distinct risk profiles based on age, region, and family size to create targeted insurance products that remain competitive while maintaining the company's loss ratio.
 
-**Goal 1**: Identify the top 3 drivers of medical charges and quantify their impact by the end of the sprint.
+**Goal 1**: Identify the top 3 drivers of charges and quantify their impact by the end of the sprint.
 
 ### **Predictive Modeling** (The "How Much" approach)
 
 To develop a high-precision predictive model that estimates annual insurance charges for individual policyholders based on demographic and lifestyle variables, reducing the variance between predicted and actual costs to improve profit margins.
 
-**Goal 2**: Develop a predictive model with an $R^2$ score of $>0.75$ to estimate individual medical charges.
+**Goal 2**: Develop a predictive model with an $R^2$ score of $>0.75$ to estimate individual charges.
 
 ### **Risk Factor Analysis** (The "Why" approach)
 
